@@ -627,7 +627,7 @@ img {
     width: 40px;
     height: 28px;
     position: relative;
-    display: none;
+    /* display: none; */
 }
 
 .burger__line {
